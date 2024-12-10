@@ -1,6 +1,6 @@
 # Suby.fi docs
 
-Docs of Suby.fi.
+Docs of [Suby.fi](https://docs.suby.fi/).
 
 ## Getting Started
 
@@ -17,3 +17,5 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+&copy; [Hunter Labs](https://hunterlabs.fi)
