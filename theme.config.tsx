@@ -3,7 +3,16 @@ import { DocsThemeConfig, useConfig } from "nextra-theme-docs";
 import { useRouter } from "next/router";
 
 const config: DocsThemeConfig = {
-  logo: <span>Suby.fi Docs</span>,
+  logo: (
+    <>
+      <img
+        style={{ height: "50px" }}
+        alt="Suby.fi Logo"
+        src="https://staging.suby.fi/logos/suby-transparent-blue-medium.png"
+      />{" "}
+      Docs
+    </>
+  ),
   project: {
     link: "https://github.com/hunterlabs-fi/suby-docs",
   },
