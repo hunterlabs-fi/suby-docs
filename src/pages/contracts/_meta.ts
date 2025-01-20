@@ -1,6 +1,6 @@
 export default {
-  index: {
-    title: "Introduction",
+  "payments-manager": {
+    title: "Payments Manager",
   },
   addresses: {
     title: "Addresses",

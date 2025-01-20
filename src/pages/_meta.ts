@@ -2,6 +2,9 @@ export default {
   index: {
     title: "Introduction",
   },
+  "suby-v1": {
+    title: "Suby V1",
+  },
   contracts: {
     title: "Contracts",
   },
